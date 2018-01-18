@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Service</string>
+    <string name="service_start">Start</string>
+    <string name="service_stop">Stop</string>
+    <string name="label_time">TIME</string>
+    <string name="label_count">COUNT</string>
+</resources>
